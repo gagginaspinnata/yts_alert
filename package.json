@@ -1,0 +1,19 @@
+{
+  "name": "yts_alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gagginaspinnata/yts_alert.git"
+  },
+  "author": "Mauro Marano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagginaspinnata/yts_alert/issues"
+  },
+  "homepage": "https://github.com/gagginaspinnata/yts_alert#readme"
+}
